@@ -5,6 +5,7 @@ Para este proyecto utilicé las siguientes tecnologías:
 -Spring-Boot [https://spring.io/projects/spring-boot]
 -React [https://es.react.dev/]
 -Axios [https://axios-http.com/docs/intro]
+-MYSQL [https://www.mysql.com/]
 
 Adjunto el video de la demostración de este proyecto: https://www.youtube.com/watch?v=UCkST-ePRQI
 
