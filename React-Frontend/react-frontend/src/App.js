@@ -16,8 +16,8 @@ function App() {
             <Routes>
               <Route path='/' element = {<ListEmployee/>}></Route>
               <Route path='/employees' element = {<ListEmployee/>}></Route>
-              <Route path='/add-employee' element = {<CreateEmployee/>}></Route>
-              <Route path='/update-employee/:id' element = {<UpdateEmployee/>}></Route>
+              <Route path='/add-employee/:id' element = {<CreateEmployee/>}></Route>
+              {/*<Route path='/update-employee/:id' element = {<UpdateEmployee/>}></Route>*/}
             </Routes>
           </div>
           <FooterComponent/>
